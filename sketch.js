@@ -13,7 +13,7 @@ function setup() {
   stroke(80, 180, 240);
   rect(20, 20, 80, 50);
 
-  Fill(120, 12, 64);
+  Fill(255, 12, 64);
   stroke(180, 241, 222);
   ellipse(50, 50, 50, 50);
 }
