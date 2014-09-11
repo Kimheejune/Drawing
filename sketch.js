@@ -9,9 +9,9 @@ function setup() {
   stroke(255, 200, 180);
   line(10, 10, 90, 10);
   
-  stroke(255, 180, 240);
+  stroke(248, 180, 240);
   rect(20, 20, 80, 50);
 
-  stroke(255, 241, 222);
+  stroke(180, 241, 222);
   ellipse(50, 50, 50, 50);
 }
